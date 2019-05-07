@@ -1,3 +1,9 @@
 .wrapper {
- background-image: url(background.jpg);
+  background-iage: url(background.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.logotitle {
+  width: 500px;
 }
